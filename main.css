@@ -1,29 +1,43 @@
-
-
 h1 {
   font-size: 40px;
-  font-family: Arial
+  font-family: Arial;
 }
+
 h2 {
   font-size: 25px;
-  font-family: Arial
+  font-family: Arial;
 }
+
 h3 {
-  font-family: Arial
+  font-family: Arial;
 }
+
 p {
   font-size: 14px;
-  font-family: Arial
+  font-family: Arial;
 }
+
+div {
+  background-color: darkcyan;
+  text-align: right;
+}
+<<<<<<< HEAD
 <<<<<<< HEAD
 div{
   background-color: darkcyan;
   text-align: right;
 =======
+=======
+>>>>>>> 25d5790d50b9084c15a2db048ee36bdf436d468a
 
 th, td {
   padding: 8px;
   border-bottom: 1px solid #ddd;
+<<<<<<< HEAD
 >>>>>>> add-table
 }
 
+=======
+  font-family: Arial;
+}
+>>>>>>> 25d5790d50b9084c15a2db048ee36bdf436d468a
